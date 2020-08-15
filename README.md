@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/jeremiergz">LinkedIn</a>
 </p>
 
+<br />
+
 <p align="center">
   <img height="256px" src="https://github.com/jeremiergz/jeremiergz/blob/master/cat.gif" />
   <h6 align="center">Non-contractual picture</h6>
